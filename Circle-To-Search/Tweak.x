@@ -4,6 +4,6 @@
 #import "Tweak.h"
 #import "libcolorpicker.h"
 
-%hook UIKit.UIGestureRecognizer
-	-(void) 
+%hook MTLumaDodgePillView
+	-(void) setMinWidth
 %end
