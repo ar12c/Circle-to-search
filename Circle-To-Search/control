@@ -1,7 +1,7 @@
 Package: okemo
 Name: Circle-To-Search
 Version: 0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: An awesome MobileSubstrate tweak!
 Maintainer: OkemoVail
 Author: OkemoVail
